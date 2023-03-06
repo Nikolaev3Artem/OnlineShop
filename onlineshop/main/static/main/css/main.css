@@ -1,0 +1,48 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.grey-color{
+    background: #F2F2F2;
+    height: 100%;
+}
+
+.horizontal-line{
+    border: 1px solid #A4ACAD;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+}
+
+.nav-item{
+    color: black;
+}
+
+.nav-item:hover{
+    color:orange;
+    transition: .2s;
+}
+
+.block-content{
+    padding:30px 110px 50px;
+}
+
+.product-card{
+    background-color: #FFFFFF;
+    width: 290px;
+    height: 400px;
+    
+}
+
+.product-image{
+    width: 253px;
+    height: 203px;
+}
+
+.buy-button{
+    padding: 5px 42px;
+    border-radius: 0px;
+    height: 40px;
+    width: 140px;
+}
